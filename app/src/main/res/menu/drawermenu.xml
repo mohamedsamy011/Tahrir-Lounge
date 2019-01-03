@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    >
+    <item
+        android:id="@+id/Hom"
+        android:title="Home"
+        android:icon="@drawable/house"/>
+    <item
+        android:id="@+id/eve"
+        android:title="Events"
+        android:icon="@drawable/calendar"/>
+
+        />
+    <item
+        android:id="@+id/us"
+        android:title="contact us "
+
+        android:icon="@drawable/contacts"/>
+    <item
+        android:id="@+id/facebook"
+        android:title="Facebook Page"
+        android:icon="@drawable/facebook"
+        />
+    <item
+        android:id="@+id/twi"
+        android:title="Twitter"
+        android:icon="@drawable/twitter"
+        />
+    <item
+        android:id="@+id/you"
+        android:title="youtube"
+
+        android:icon="@drawable/youtube"/>
+
+
+    <item
+        android:id="@+id/Our"
+        android:title="Our Team"
+        android:icon="@drawable/team"
+        />
+
+
+    <item
+        android:id="@+id/part"
+
+        android:title="partners"
+        android:icon="@drawable/rsz_1rsz_1rsz_download"/>
+    <item
+        android:id="@+id/about_us"
+        android:title="About Us"
+        android:icon="@drawable/iconabou"/>
+
+
+
+
+
+</menu>

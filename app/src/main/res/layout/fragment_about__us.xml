@@ -1,0 +1,66 @@
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ezzeldeen.tahrirlounge.NavigationDrawer_fragments.About_Us"
+    android:background="@color/colorAccent"
+
+    >
+
+
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/a19642434_1576109665741095_6114916094488595536_n"
+            android:id="@+id/about_us_image"
+
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:text="من نحن؟؟
+مشروع التحرير لاونج جوته هو أحد مشروعات المركز الثقافي الألماني بالقاهرة يساعد الشباب على اكتشاف مواهبهم وتنمية قدراتهم الإبداعية للمشاركة في التغيير للأفضل، وذلك عبر تنظيم فعاليات متنوعة في مختلف المجالات، إلى جانب ذلك يدعم التحرير لاونج جوته مبادرات الشباب وأنشطة الطلاب الجادة التي تسعى أن يكون لها دور إيجابي وفعال في المجتمع.
+ويعمل المشروع على إثراء المشهد الثقافي في المجتمع المصري من خلال تنظيم مجموعة من الورش والأنشطة الهادفة إلى رفع كفاءات العاملين بالقطاع الحكومي في مختلف المجالات الثقافية، إلى جانب بناء شراكات مع قطاعات حكومية في عدد من المحافظات، مما ينعكس على خلق بيئة ثقافية خصبة للمجتمع المصري.
+
+التحرير لاونج جوته مشروع حيادي غير هادف للربح وجميع أنشطته منح مدعومة من وزارة الخارجية الألمانية، ويعمل تحت مظلة الاتفاقية الثقافية بين مصر وألمانيا.
+
+"
+            android:textSize="20sp"
+
+            />
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=" who we are ?
+        Tahrir Lounge is one of the Goethe institute projects in Cairo, it aims at helping youth to discover their talents, and improving their creativity to contribute to the change for better future, through conducting various activities in different fields. In addition the project is supporting youth initiatives and dynamic student activities which is seeking to play positive and active role in the society.
+The project enriches the culture scene in the Egyptian society, by organizing various workshops and activities to build the capacity of the governmental employees in different cultural fields. In addition, the project establishes partnerships with different governmental sector in a number of governorates, which reflects on creating rich culture environment for the Egyptian society.
+Tahrir Lounge is a neutral project and all its activities are supported by German foreign office. The project works under the umbrella of the cultural agreement between Egypt and Germany"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+
+
+        />
+</LinearLayout>
+
+
+    </ScrollView>
+
+
+
